@@ -1,2 +1,1 @@
-class simple_note {
-}
+data class Note (var title: String, var content: String)
